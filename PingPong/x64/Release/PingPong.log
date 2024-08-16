@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\taher\source\repos\PingPong\main.cpp(5,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\main.cpp(14,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\renderer.cpp(12,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\renderer.cpp(23,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\renderer.cpp(39,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\renderer.cpp(41,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\renderer.cpp(53,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\taher\source\repos\PingPong\renderer.cpp(54,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\taher\source\repos\PingPong\renderer.cpp(55,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\taher\source\repos\PingPong\renderer.cpp(56,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\taher\source\repos\PingPong\renderer.cpp(231,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\renderer.cpp(263,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\game.cpp(13,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\game.cpp(30,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\taher\source\repos\PingPong\game.cpp(49,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PingPong.vcxproj -> C:\Users\taher\source\repos\PingPong\x64\Release\PingPong.exe
